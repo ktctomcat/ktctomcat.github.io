@@ -2,58 +2,59 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="300mm"
-   height="300mm"
-   viewBox="0 0 300 300"
+   width="144"
+   height="144"
+   viewBox="0 0 38.1 38.1"
    version="1.1"
    id="svg1"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.1159507"
+     inkscape:cx="90.137133"
+     inkscape:cy="85.15651"
+     inkscape:window-width="1800"
+     inkscape:window-height="1106"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1" />
   <g
      id="layer1"
-     style="display:inline">
+     style="display:inline;fill:#ffffff"
+     transform="matrix(0.18528563,0,0,0.18528564,0,-17.485692)">
     <rect
-       style="display:inline;fill:#ffffff;stroke:none;stroke-width:22.1069;stroke-miterlimit:3.9;stroke-dasharray:none"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:15.1527;stroke-miterlimit:3.9;stroke-dasharray:none"
        id="rect2"
-       width="300"
-       height="300"
+       width="205.62846"
+       height="205.62846"
        x="0"
-       y="2.2888183e-07"
-       ry="0" />
-    <rect
-       style="display:none;fill:#999999;stroke:none;stroke-width:22.1069;stroke-miterlimit:3.9;stroke-dasharray:none"
-       id="rect5"
-       width="300"
-       height="300"
-       x="0"
-       y="2.2888183e-07"
-       ry="0" />
-    <rect
-       style="display:none;fill:#06c755;fill-opacity:1;stroke:none;stroke-width:22.1069;stroke-miterlimit:3.9;stroke-dasharray:none"
-       id="rect3"
-       width="300"
-       height="300"
-       x="0"
-       y="2.2888183e-07"
-       ry="0" />
-    <rect
-       style="display:none;fill:#1877f2;fill-opacity:1;stroke:none;stroke-width:22.1069;stroke-miterlimit:3.9;stroke-dasharray:none"
-       id="rect4"
-       width="300"
-       height="300"
-       x="0"
-       y="2.2888183e-07"
+       y="94.371544"
        ry="0" />
   </g>
   <g
      id="layer2"
-     style="display:inline;stroke-width:3.2;stroke-dasharray:none">
+     style="display:inline;stroke-width:3.2;stroke-dasharray:none"
+     transform="matrix(1.0143482,0,0,1.0143482,-0.27333321,-0.27333317)">
     <g
        id="g27-8-8"
        style="display:inline;stroke-width:4.9979;stroke-dasharray:none"
-       transform="matrix(1.0190887,0,0,1.0199831,-1.4441003,18.912657)">
+       transform="matrix(0.13406909,0,0,0.13418676,-0.8736571,1.8044038)">
       <g
          id="g20-7-2"
          style="display:inline;opacity:1;fill:#ffb380;stroke-width:2.94252;stroke-dasharray:none">
