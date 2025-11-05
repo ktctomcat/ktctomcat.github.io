@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -22,6 +20,4 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```
-The final element.
-```
+どうですかね？
