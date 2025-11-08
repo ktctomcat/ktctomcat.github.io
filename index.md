@@ -2,21 +2,24 @@
 layout: top
 ---
 
-# top page
+# top
 
-## 説明
+## work
 
-[Link to works](./works.html)
+[Go to works](./works.html)
+
+## fragments
+
+[Go to fragments](./fragments.html)  
 
 ## about
 
-[Link to about page](./about.html)  
+[Go to about page](./about.html)
 
-## fragments 
-  
-[Link to fragments](./fragments.html)  
+## other
 
+[Go to other page](./other.html)  
 
+## link
 
-[Link to another page](./another-page.html)  
-
+[Go to link page](./link.html)
