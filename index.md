@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: top
 ---
 
 # top page
