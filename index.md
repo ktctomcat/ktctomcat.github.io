@@ -6,7 +6,7 @@ layout: default
 
 ## 説明
 
-[Link to work](./work.html)
+[Link to works](./works.html)
 
 ## about
 
