@@ -5,6 +5,6 @@ description: TomoDesign Worksは、構造に思想を宿すデザインを通じ
 url: https://ktctomcat.github.io
 baseurl: ""
 show_downloads: false
-google_analytics:
+google_analytics: false
 lamg: ja
 theme: jekyll-theme-minimal
