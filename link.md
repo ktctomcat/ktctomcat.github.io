@@ -151,33 +151,25 @@
 </ul>
 
 <h2>その他のブログ色々</h2>
-<dl>
-    <dt><a href="http://blog.livedoor.jp/waraku1969/">和楽 - livedoor</a></dt>
-    <dd>私が楽しく遊ぶ場所、お遊戯室へようこそ。</dd>
-    <dt><a href="http://blog.goo.ne.jp/waraku1969/">和楽 - goo</a></dt>
-    <dd>私が楽しく遊ぶ場所、お遊戯室へようこそ。</dd>
-    <dt><a href="http://megamix.ddo.jp/diary/">ノン・トラブルで行こう</a></dt>
-    <dd>−何も起こらない日常−</dd>
-    <dt><a href="http://hirobox.air-nifty.com/blog/">hirobox</a></dt>
-    <dd>ひろぼうの趣味や興味のあることなどを紹介するウェブログ</dd>
-    <dt><a href="http://blog.livedoor.jp/fiend2005/">聞いて極楽見て地獄</a></dt>
-    <dd>誰も言わないから俺が言う...</dd>
-</dl>
+<ul>
+    <li><a href="http://blog.livedoor.jp/waraku1969/">和楽 - livedoor</a></li>
+    <li><a href="http://blog.goo.ne.jp/waraku1969/">和楽 - goo</a></li>
+    <li><a href="http://megamix.ddo.jp/diary/">ノン・トラブルで行こう</a></li>
+    <li><a href="http://hirobox.air-nifty.com/blog/">hirobox</a></li>
+    <li><a href="http://blog.livedoor.jp/fiend2005/">聞いて極楽見て地獄</a></li>
+</ul>
 
 <h2>CALS/EC関連ブログ</h2>
-<dl>
-    <dt><a href="http://sxf.de-blog.jp/sxf/">大野聡の SXF最新情報ブログ</a></dt>
-    <dd>SXF技術者検定合格者必見！</dd>
-    <dt><a href="http://www.cals-up.co.jp/">CALS-Up Log</a></dt>
-    <dd>東京のIT関連企業による運営。提供サービスの詳細を配信する他、業界の最新情報なども紹介。</dd>
-</dl>
+<ul>
+    <li><a href="http://sxf.de-blog.jp/sxf/">大野聡の SXF最新情報ブログ</a></li>
+    <li><a href="http://www.cals-up.co.jp/">CALS-Up Log</a></li>
+</ul>
 
 <h2>セキュリティ関連ブログ</h2>
-<dl>
-    <dt><a href="http://yoshihiro.cocolog-nifty.com/postit/">砂糖の甘い付箋</a></dt>
-    <dd>佐藤が気になったことをチョコっとメモするところ</dd>
-    <dt><a href="http://yoshihiro.cocolog-nifty.com/security/">深情報セキュリティ美学</a></dt>
-    <dd>佐藤慶浩 (yosihiro.com/)</dd>
-    <dt><a href="http://maruyama-mitsuhiko.cocolog-nifty.com/security/">まるちゃんの情報セキュリティ気まぐれ日記</a></dt>
-    <dd></dd>
-</dl>
+<ul>
+    <li><a href="http://yoshihiro.cocolog-nifty.com/postit/">砂糖の甘い付箋</a></li>
+    <li><a href="http://yoshihiro.cocolog-nifty.com/security/">深情報セキュリティ美学</a></li>
+    <li><a href="http://maruyama-mitsuhiko.cocolog-nifty.com/security/">まるちゃんの情報セキュリティ気まぐれ日記</a></li>
+</ul>
+
+[back](./)
