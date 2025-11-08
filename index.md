@@ -2,11 +2,21 @@
 layout: default
 ---
 
-# リスト
+# top page
+
+## 説明
+
+[Link to work](./work.html)
+
+## about
 
 [Link to about page](./about.html)  
-[Link to work](./work.html)  
+
+## fragments 
+  
 [Link to fragments](./fragments.html)  
+
+
+
 [Link to another page](./another-page.html)  
 
-現在準備中…

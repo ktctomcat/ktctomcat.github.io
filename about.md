@@ -2,4 +2,4 @@
 layout: default
 ---
 
-私の情報
+# about page
