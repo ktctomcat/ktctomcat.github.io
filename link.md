@@ -2,34 +2,26 @@
 
 [SEO対策とWeb標準のホームページ作成 SEO-Equation](http://www.seo-equation.com/)
 [The Web KANZAKI -- Japan, music and computer](http://www.kanzaki.com/)
+<a href="http://www.cybergarden.net/">CYBER@GARDEN</a>
 
-            <li><a href=""></a></li>
-            <li><a href="http://www.cybergarden.net/">CYBER@GARDEN</a></li>
-        </ul>
-        <h2 lang="en">CALS/EC</h2>
-        <ul>
-            <li><a href="http://www.cals.jacic.or.jp/">JACIC［CALS/EC部］</a></li>
-            <li><a href="http://www.ocf.or.jp/sxf/">SXF技術者検定試験</a></li>
-            <li><a href="http://www.enjoy.ne.jp/~katsurar/">桂 flashバージョンJW CAD Auto CAD</a></li>
-        </ul>
-        <h2 lang="en">Blog</h2>
-        <ul>
-            <li><a href="http://blog.goo.ne.jp/kam0302">稲島観音堂だより</a></li>
-            <li><a href="http://blog.goo.ne.jp/higashinagatori">長鳥の人より</a></li>
-            <li><a href="http://megamix.ddo.jp/diary/">ノン・トラブルで行こう</a></li>
-            <li><a href="http://nuttari.seesaa.net/">沼垂の住人の春夏秋冬</a></li>
-            <li><a href="http://niigata.way-nifty.com/ifamily/">新潟ラーメン日記</a></li>
-            <li><a href="http://blog.goo.ne.jp/breitling24">☆新潟ラーメン日記☆</a></li>
-            <li><a href="http://katumaru.spaces.live.com/">【おいしい足跡 ～新潟ラーメン食べ歩き～】</a></li>
-        </ul>
-        <h2>用語辞典</h2>
-        <ul>
-            <li><a href="http://e-words.jp/">IT用語辞典e-Words（株式会社インセプト）</a></li>
-            <li><a
-                    href="http://www.atmarkit.co.jp/fsecurity/dictionary/indexpage/securityindex.html">セキュリティ用語辞典（＠IT）</a>
-            </li>
-            <li><a href="http://ja.wikipedia.org/">フリー百科事典『ウィキペディア（Wikipedia）』</a></li>
-        </ul>
+<h2>CALS/EC</h2>
+<a href="http://www.cals.jacic.or.jp/">JACIC［CALS/EC部］</a>
+<a href="http://www.ocf.or.jp/sxf/">SXF技術者検定試験</a>
+<a href="http://www.enjoy.ne.jp/~katsurar/">桂 flashバージョンJW CAD Auto CAD</a>
+
+<h2>Blog</h2>
+<a href="http://blog.goo.ne.jp/kam0302">稲島観音堂だより</a>
+<a href="http://blog.goo.ne.jp/higashinagatori">長鳥の人より</a>
+<a href="http://megamix.ddo.jp/diary/">ノン・トラブルで行こう</a>
+<a href="http://nuttari.seesaa.net/">沼垂の住人の春夏秋冬</a>
+<a href="http://niigata.way-nifty.com/ifamily/">新潟ラーメン日記</a>
+<a href="http://blog.goo.ne.jp/breitling24">☆新潟ラーメン日記☆</a>
+<a href="http://katumaru.spaces.live.com/">【おいしい足跡 ～新潟ラーメン食べ歩き～】</a>
+
+<h2>用語辞典</h2>
+<a href="http://e-words.jp/">IT用語辞典e-Words（株式会社インセプト）</a></li>
+<a href="http://www.atmarkit.co.jp/fsecurity/dictionary/indexpage/securityindex.html">セキュリティ用語辞典（＠IT）</a>
+<a href="http://ja.wikipedia.org/">フリー百科事典『ウィキペディア（Wikipedia）』</a>
 
         <h1>リンク集</h1>
         <p>主に新潟県内のサイトを中心に、地域の情報で特にローカルな情報を発進しているサイトを集めてみました。</p>
