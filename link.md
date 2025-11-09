@@ -103,6 +103,8 @@ title: Link
 
 ## 新潟県外の情報
 
+新潟県以外のサイトです。
+
 ### 伝説等
 
 * <a href="http://www.bakebake.com/kaido/">みちのく怪道風まかせ</a>
@@ -128,6 +130,8 @@ title: Link
 
 ## その他の色々
 
+その他色々です。
+
 ### CALS/EC関連ブログ
 
 * <a href="http://sxf.de-blog.jp/sxf/">大野聡の SXF最新情報ブログ</a>
@@ -145,7 +149,7 @@ title: Link
 * <a href="http://www.kanzaki.com/">The Web KANZAKI -- Japan, music and computer</a>
 * <a href="http://www.cybergarden.net/">CYBER@GARDEN</a>
 
-<h3>CALS/EC</h3>
+### CALS/EC
 
 * <a href="http://www.cals.jacic.or.jp/">JACIC［CALS/EC部］</a>
 * <a href="http://www.ocf.or.jp/sxf/">SXF技術者検定試験</a>
