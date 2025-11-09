@@ -6,7 +6,7 @@ url: https://ktctomcat.github.io
 baseurl: ""
 show_downloads: true
 google_analytics: false
-lamg: ja
+lang: ja
 theme: jekyll-theme-minimal
 header_pages:
   - index.md 
