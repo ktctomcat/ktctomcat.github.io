@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -17,19 +17,20 @@
 <body>
     <div class="wrapper">
         <header>
-            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <h1><a href="{{ " /" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
             {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
 
-            <!-- グローバルナビゲーション（カスタム） -->
+            <!-- グローバルナビゲーション（カスタム設定） -->
             <nav role="navigation" aria-label="グローバルナビゲーション">
                 <ul>
-                    <li><a href="/">top</a></li>
-                    <li><a href="/works.html">works</a></li>
-                    <li><a href="/fragments.html">fragments</a></li>
-                    <li><a href="/about.html">about</a></li>
+                    {% for page in site.pages %}
+                    {% if site.header_pages contains page.path %}
+                    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+                    {% endif %}
+                    {% endfor %}
                 </ul>
             </nav>
 
@@ -65,7 +66,7 @@
                         href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
 </html>

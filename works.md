@@ -1,7 +1,6 @@
 ---
 layout: default
+title: works
 ---
-
-# works
 
 [back](./)

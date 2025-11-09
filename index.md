@@ -1,8 +1,7 @@
 ---
 layout: top
+title: top
 ---
-
-# top
 
 ## work
 

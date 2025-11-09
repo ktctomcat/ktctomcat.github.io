@@ -1,8 +1,7 @@
 ---
 layout: default
+title: other
 ---
-
-# other
 
 ## お茶の間IoT実験室
 
