@@ -13,5 +13,3 @@ tag: [地域文化,Web技術,祭]
 ### さびれていくまつり
 
 記事
-
-[back](./fragments.html)
