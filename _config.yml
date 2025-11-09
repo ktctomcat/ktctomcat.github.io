@@ -7,7 +7,7 @@ baseurl: ""
 show_downloads: false
 google_analytics: false
 lang: ja
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 
 # グリーバルナビゲーションの設定
 header_pages:
