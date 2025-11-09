@@ -3,30 +3,31 @@ layout: default
 title: Link
 ---
 
-<p>主に新潟県内のサイトを中心に、地域の情報で特にローカルな情報を発進しているサイトを集めてみました。</p>
+## 新潟県内の情報
 
-<h2 id="local">新潟県内の情報</h2>
-<h3 id="local">地域情報</h3>
-<ul>
-    <li><a href="http://www10.ocn.ne.jp/~miyadi/">みやぢ〜ず☆へぶん</a></li>
-    <li><a href="http://www.geocities.jp/tasuke_issinn/">白根大凧合戦 一心太助</a></li>
-    <li><a href="http://www11.plala.or.jp/netbase-niigata/">NetBase新潟</a></li>
-    <li><a href="http://homepage1.nifty.com/akitankun/">Akira's World!! ~I Love Niigata.~</a></li>
-    <li><a href="http://homepage3.nifty.com/niigatatansyoutou/index.htm">新潟探照燈</a></li>
-    <li><a href="http://park2.wakwak.com/~hattyouoki/">越後ながおか 浦瀬町</a></li>
-    <li><a href="http://www2.icn.ne.jp/~sonmin/index.html">弥彦村村民Ａの部屋</a></li>
-    <li><a href="http://www.sadoyume.com/index.htm">佐渡夢紀行</a></li>
-    <li><a href="http://www.gsy.co.jp/~toys/">-NIITSU CITY GUIDE- ★TOY'S ROOM★</a></li>
-    <li><a href="http://www.info-niigata.or.jp/~makimasa/">やすらぎの郷 〜なかのくち〜</a></li>
-    <li><a href="http://tunesanpost.hp.infoseek.co.jp/">新潟てくてくキョロキョロ</a></li>
-    <li><a href="http://www1.ocn.ne.jp/~mishima/">三島インフォメーション</a></li>
-    <li><a href="http://waly.at.infoseek.co.jp/">Waly Kato.Suibara</a></li>
-    <li><a href="http://www009.upp.so-net.ne.jp/ojiya-web/">小千谷ＷＥＢ</a></li>
-    <li><a href="http://www1.ocn.ne.jp/~yoshi/">越後 新発田発 Yoshi's Page</a></li>
-    <li><a href="http://www1.ocn.ne.jp/~ethigo/index.htm">西川町インデックス</a></li>
-</ul>
+主に新潟県内のサイトを中心に、地域の情報で特にローカルな情報を発進しているサイトを集めてみました。
 
-<h3>歴史・文化</h3>
+### 地域情報
+
+* <a href="http://www10.ocn.ne.jp/~miyadi/">みやぢ〜ず☆へぶん</a>
+* <a href="http://www.geocities.jp/tasuke_issinn/">白根大凧合戦 一心太助</a>
+* <a href="http://www11.plala.or.jp/netbase-niigata/">NetBase新潟</a>
+* <a href="http://homepage1.nifty.com/akitankun/">Akira's World!! ~I Love Niigata.~</a>
+* <a href="http://homepage3.nifty.com/niigatatansyoutou/index.htm">新潟探照燈</a>
+* <a href="http://park2.wakwak.com/~hattyouoki/">越後ながおか 浦瀬町</a>
+* <a href="http://www2.icn.ne.jp/~sonmin/index.html">弥彦村村民Ａの部屋</a>
+* <a href="http://www.sadoyume.com/index.htm">佐渡夢紀行</a>
+* <a href="http://www.gsy.co.jp/~toys/">-NIITSU CITY GUIDE- ★TOY'S ROOM★</a>
+* <a href="http://www.info-niigata.or.jp/~makimasa/">やすらぎの郷 〜なかのくち〜</a>
+* <a href="http://tunesanpost.hp.infoseek.co.jp/">新潟てくてくキョロキョロ</a>
+* <a href="http://www1.ocn.ne.jp/~mishima/">三島インフォメーション</a>
+* <a href="http://waly.at.infoseek.co.jp/">Waly Kato.Suibara</a>
+* <a href="http://www009.upp.so-net.ne.jp/ojiya-web/">小千谷ＷＥＢ</a>
+* <a href="http://www1.ocn.ne.jp/~yoshi/">越後 新発田発 Yoshi's Page</a>
+* <a href="http://www1.ocn.ne.jp/~ethigo/index.htm">西川町インデックス</a>
+
+### 歴史・文化
+
 <ul>
     <li><a href="http://www.syakazuka.com/">釈迦塚歴史考</a></li>
     <li><a href="http://hgotan.hp.infoseek.co.jp/">越後の歴史探訪観光案内所</a></li>
@@ -39,7 +40,8 @@ title: Link
     <li><a href="http://home.n00.itscom.net/hasegawa/">新潟県南蒲原郡田上町の紹介とその方言</a></li>
 </ul>
 
-<h3>自治体・各種団体</h3>
+### 自治体・各種団体
+
 <ul>
     <li><a href="http://www.pref.niigata.jp/">新潟県</a></li>
     <li><a href="http://www.city.niigata.niigata.jp/">新潟市</a></li>
@@ -47,7 +49,8 @@ title: Link
     <li><a href="http://homepage3.nifty.com/niigatachikyumura/">にいがた『地球村』</a></li>
 </ul>
 
-<h3>写真・イラスト</h3>
+### 写真・イラスト
+
 <ul>
     <li><a href="http://m-park.net/">M's LIBERAL PARK</a></li>
     <li><a href="http://www.asahi-net.or.jp/~tp7h-itu/">新潟周辺の風景写真 そして他愛のない話</a></li>
@@ -59,7 +62,8 @@ title: Link
     <li><a href="http://kajii.icca.jp/index3.html">syoin kajii`s room</a></li>
 </ul>
 
-<h3>その他一般</h3>
+### その他一般
+
 <ul>
     <li><a href="http://www2.plala.or.jp/waraku/">日暮れて途遠し</a></li>
     <li><a href="http://homepage3.nifty.com/hirobou/">ひろBOX</a></li>
@@ -71,7 +75,8 @@ title: Link
     <li><a href="http://www.namkk.net/">新潟のんびり旅行</a></li>
 </ul>
 
-<h3>ブログ</h3>
+### ブログ
+
 <ul>
     <li><a href="http://blog.goo.ne.jp/kam0302">稲島観音堂だより</a></li>
     <li><a href="http://blog.goo.ne.jp/higashinagatori">長鳥の人より</a></li>
@@ -91,8 +96,8 @@ title: Link
     <li><a href="http://blog.livedoor.jp/fiend2005/">聞いて極楽見て地獄</a></li>
 </ul>
 
+### 越後の自宅サーバ
 
-<h3>越後の自宅サーバ</h3>
 <ul>
     <li><a href="http://www.tatunet.ddo.jp/">Tatu Net</a></li>
     <li><a href="http://itoigawa.com/~homeserver/homeserver.html">SAO「同じ自宅サーバー作ろうよ」計画！</a></li>
@@ -108,8 +113,10 @@ title: Link
     <li><a href="http://mosachan.ddo.jp/">In The Life-Zope in the Life-</a></li>
 </ul>
 
-<h2 id="out">新潟県外の情報</h2>
-<h3 id="out">伝説等</h3>
+## 新潟県外の情報
+
+### 伝説等
+
 <ul>
     <li><a href="http://www.bakebake.com/kaido/">みちのく怪道風まかせ</a></li>
     <li><a href="http://www31.ocn.ne.jp/~denkidensetu/">伝奇伝説研究所</a></li>
@@ -129,27 +136,29 @@ title: Link
     <li><a href="http://home.att.ne.jp/red/sronin/">座敷浪人の壺蔵</a></li>
 </ul>
 
-<h3>その他</h3>
-<ul>
-    <li><a href="http://www.landmax.net/">マジックと手品の不思議</a></li>
-</ul>
+### その他
 
-<h2>その他の色々</h2>
+* <li><a href="http://www.landmax.net/">マジックと手品の不思議</a></li>
 
-<h3>CALS/EC関連ブログ</h3>
+## その他の色々
+
+### CALS/EC関連ブログ
+
 <ul>
     <li><a href="http://sxf.de-blog.jp/sxf/">大野聡の SXF最新情報ブログ</a></li>
     <li><a href="http://www.cals-up.co.jp/">CALS-Up Log</a></li>
 </ul>
 
-<h3>セキュリティ関連ブログ</h3>
+### セキュリティ関連ブログ
+
 <ul>
     <li><a href="http://yoshihiro.cocolog-nifty.com/postit/">砂糖の甘い付箋</a></li>
     <li><a href="http://yoshihiro.cocolog-nifty.com/security/">深情報セキュリティ美学</a></li>
     <li><a href="http://maruyama-mitsuhiko.cocolog-nifty.com/security/">まるちゃんの情報セキュリティ気まぐれ日記</a></li>
 </ul>
 
-<h3>WEB standard</h3>
+### WEB standard
+
 <ul>
     <li><a href="http://www.seo-equation.com/">SEO対策とWeb標準のホームページ作成 SEO-Equation</a></li>
     <li><a href="http://www.kanzaki.com/">The Web KANZAKI -- Japan, music and computer</a></li>
@@ -163,7 +172,8 @@ title: Link
     <li><a href="http://www.enjoy.ne.jp/~katsurar/">桂 flashバージョンJW CAD Auto CAD</a></li>
 </ul>
 
-<h3>用語辞典</h3>
+### 用語辞典
+
 <ul>
     <li><a href="http://e-words.jp/">IT用語辞典e-Words（株式会社インセプト）</a></li>
     <li>
