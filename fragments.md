@@ -13,4 +13,9 @@ title: Fragments
   {% endfor %}
 </ul>
 
+<h2>その他色々</h2>
+
+* [リンク集](link.html)
+* [その他](other.html)
+
 [back](./)
