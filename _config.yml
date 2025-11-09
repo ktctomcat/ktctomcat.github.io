@@ -8,8 +8,17 @@ show_downloads: false
 google_analytics: false
 lang: ja
 theme: jekyll-theme-minimal
+
+# グリーバルナビゲーションの設定
 header_pages:
   - index.md 
   - works.md
   - fragments.md
-  
+
+# OGP用アイコンの設定
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: /assets/img/ogp.png
