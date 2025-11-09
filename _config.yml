@@ -8,3 +8,8 @@ show_downloads: true
 google_analytics: false
 lamg: ja
 theme: jekyll-theme-minimal
+header_pages:
+  - index.md 
+  - works.md
+  - fragments.md
+  - about.md
