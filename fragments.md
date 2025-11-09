@@ -13,6 +13,15 @@ title: Fragments
   {% endfor %}
 </ul>
 
+{% if page.tags %}
+  <p class="tags">
+    Tags:
+    {% for tag in page.tags %}
+      <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
+    {% endfor %}
+  </p>
+{% endif %}
+
 <h2>その他色々</h2>
 
 * [リンク集](link.html)
