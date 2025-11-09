@@ -3,7 +3,7 @@ layout: default
 title: fragments
 ---
 
-<h2>投稿一覧</h2>
+<h2>記事一覧</h2>
 <ul>
   {% for post in site.posts %}
     <li>
