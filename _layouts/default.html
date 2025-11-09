@@ -26,14 +26,15 @@
             <!-- グローバルナビゲーション（カスタム設定） -->
             <nav role="navigation" aria-label="グローバルナビゲーション">
                 <ul>
-                    {% for page in site.pages %}
-                    {% if site.header_pages contains page.path %}
+                    {% for path in site.header_pages %}
+                    {% assign page = site.pages | where: "path", path | first %}
+                    {% if page %}
                     <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
                     {% endif %}
                     {% endfor %}
                 </ul>
             </nav>
-
+            
             <p>{{ site.description | default: site.github.project_tagline }}</p>
 
             {% if site.github.is_project_page %}
