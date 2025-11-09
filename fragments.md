@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fragments
+title: Fragments
 ---
 
 <h2>記事一覧</h2>

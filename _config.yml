@@ -9,7 +9,7 @@ google_analytics: false
 lang: ja
 theme: jekyll-theme-minimal
 header_pages:
-  - index.md
-  - about.md 
+  - index.md 
   - works.md
   - fragments.md
+  
