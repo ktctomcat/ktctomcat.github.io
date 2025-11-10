@@ -1,3 +1,5 @@
+// このJavaScriptコードは、iPhoneユーザー向けにビューポートのスケーリング挙動を制御するためのものです。
+// iPhoneでのピンチズーム（拡大・縮小）操作に対して、一時的にズームを許可し、操作終了後に元に戻すという挙動を実現しています。
 (function(document) {
     var metas = document.getElementsByTagName('meta'),
         changeViewportContent = function(content) {
