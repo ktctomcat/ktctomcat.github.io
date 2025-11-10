@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Tomoo Ito
-title: 元県議をSNSなどで誹謗中傷
-date: 2025-11-09
-tag: [地域文化,Web技術]
+title: 題3回目の投稿です
+date: 2025-4-06
+tag: [地域文化]
 ---
 
 ## 元県議をSNSなどで誹謗中傷
