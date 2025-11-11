@@ -10,6 +10,8 @@ TomoDesign Worksでは、キャラクターを単なる装飾や流行ではな�
 
 デザインとは、時代の精神を記録し、社会と響き合う構造である。
 
+## 試みとしてのWebサイト
+
 ### かもん！かもねぎくん
 
 ![カモねぎくん](https://ktctomcat.github.io/kamonegi/ogp.png)
