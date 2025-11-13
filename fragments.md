@@ -11,13 +11,13 @@ title: Fragments
 <ul>
   {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for group in posts_by_year %}
-    <li><a href="#year-{{ group.name }}">{{ group.name }}年の記事</a></li>
+    <li><a href="#year-{{ group.name }}">{{ group.name }}年</a></li>
   {% endfor %}
 </ul>
 
 <!-- 記事一覧（年ごとに分類） -->
 {% for group in posts_by_year %}
-  <h3 id="year-{{ group.name }}">{{ group.name }}年</h3>
+  <h3 id="year-{{ group.name }}">{{ group.name }}年掲載の記事</h3>
   <ul>
     {% for post in group.items %}
       <li>
