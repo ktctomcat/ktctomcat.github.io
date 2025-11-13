@@ -3,8 +3,9 @@ layout: default
 title: Fragments
 ---
 
-<<!-- 年ごとのリンク一覧 -->
-<h3>投稿年</h3>
+<h2>投稿一覧</h2>
+
+<!-- 年ごとのリンク一覧 -->
 <ul>
   {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for group in posts_by_year %}
