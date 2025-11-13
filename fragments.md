@@ -3,7 +3,9 @@ layout: default
 title: Fragments
 ---
 
-## 年別記事一覧
+## 記事一覧
+
+### 各年へ
 
 <!-- 年ごとのリンク一覧 -->
 <ul>
