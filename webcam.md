@@ -3,9 +3,7 @@ layout: default
 title: Other
 ---
 
-## お茶の間IoT実験室
-
-### お茶の間映像公開
+## お茶の間映像公開
 
 自宅内に設置したRaspberry PiにWebカメラをUSB接続して、  
 ストリーミング配信しています。
