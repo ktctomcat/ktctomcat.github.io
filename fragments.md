@@ -20,16 +20,14 @@ title: Fragments
 </ul>
 
 <!-- 投稿一覧（年ごとに分類） -->
-{% for year in years %}
-  <h3 id="year-{{ year }}">{{ year }}年の投稿</h3>
+{% for group in posts_by_year %}
+  <h3 id="year-{{ group.name }}">{{ group.name }}年の投稿</h3>
   <ul>
-    {% for post in site.posts %}
-      {% if post.date | date: "%Y" == year %}
-        <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <small>{{ post.date | date: "%Y年%m月%d日" }}</small>
-        </li>
-      {% endif %}
+    {% for post in group.items %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%Y年%m月%d日" }}</small>
+      </li>
     {% endfor %}
   </ul>
 {% endfor %}
