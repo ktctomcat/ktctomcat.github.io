@@ -4,6 +4,7 @@ title: Fragments
 ---
 
 <!-- 年ごとのリンク一覧 -->
+<h3>投稿年</h3>
 <ul>
   {% assign years = "" | split: "" %}
   {% for post in site.posts %}
@@ -20,7 +21,7 @@ title: Fragments
 
 <!-- 投稿一覧（年ごとに分類） -->
 {% for year in years %}
-  <h2 id="year-{{ year }}">{{ year }}年の投稿</h2>
+  <h3 id="year-{{ year }}">{{ year }}年の投稿</h3>
   <ul>
     {% for post in site.posts %}
       {% if post.date | date: "%Y" == year %}
