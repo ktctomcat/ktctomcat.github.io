@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Other
+title: Webcam
 ---
 
 ## お茶の間映像公開
