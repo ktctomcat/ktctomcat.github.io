@@ -5,7 +5,7 @@ title: Fragments
 
 <!-- 年ごとのリンク一覧 -->
 <ul>
-  {% assign years = site.posts | map: "date" | map: "year" | uniq | sort | reverse %}
+  {% assign years = site.posts | map: "date" | map: "date: '%Y'" | uniq | sort | reverse %}
   {% for year in years %}
     <li><a href="#year-{{ year }}">{{ year }}年の投稿</a></li>
   {% endfor %}
