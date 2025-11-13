@@ -3,19 +3,12 @@ layout: default
 title: Fragments
 ---
 
-<!-- 年ごとのリンク一覧 -->
+<<!-- 年ごとのリンク一覧 -->
 <h3>投稿年</h3>
 <ul>
-  {% assign years = "" | split: "" %}
-  {% for post in site.posts %}
-    {% assign year = post.date | date: "%Y" %}
-    {% unless years contains year %}
-      {% assign years = years | push: year %}
-    {% endunless %}
-  {% endfor %}
-  {% assign years = years | sort | reverse %}
-  {% for year in years %}
-    <li><a href="#year-{{ year }}">{{ year }}年の投稿</a></li>
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for group in posts_by_year %}
+    <li><a href="#year-{{ group.name }}">{{ group.name }}年の投稿</a></li>
   {% endfor %}
 </ul>
 
