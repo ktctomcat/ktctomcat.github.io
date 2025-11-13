@@ -32,5 +32,6 @@ title: Fragments
 
 * [リンク集](link.html)
 * [その他](other.html)
+* [Webカメラ](webcam.html)
 
 [back](./)
