@@ -3,7 +3,7 @@ layout: default
 title: Fragments
 ---
 
-## 掲載記事の一覧
+## 掲載記事
 
 ### 掲載年
 
