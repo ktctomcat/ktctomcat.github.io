@@ -3,7 +3,7 @@ layout: default
 title: Fragments
 ---
 
-## 記事一覧
+## 掲載記事の一覧
 
 ### 掲載年
 
@@ -17,7 +17,7 @@ title: Fragments
 
 <!-- 記事一覧（年ごとに分類） -->
 {% for group in posts_by_year %}
-  <h3 id="year-{{ group.name }}">{{ group.name }}年の記事</h3>
+  <h3 id="year-{{ group.name }}">{{ group.name }}年掲載の記事</h3>
   <ul>
     {% for post in group.items %}
       <li>
