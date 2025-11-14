@@ -20,7 +20,9 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
 
 ### かもん！かもねぎくん
 
+<!--
 ![カモねぎくん](https://ktctomcat.github.io/kamonegi/ogp.png)
+-->
 
 [かもん！カモねぎくんのホームページへ](https://ktctomcat.github.io/kamonegi/)
 
