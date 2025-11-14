@@ -10,6 +10,8 @@ title: Webcam
 
 ![webカメラ](http://banya1700.synology.me:3050/?action=stream)
 
+<img src="http://banya1700.synology.me:3050/?action=stream">
+
 [webカメラ](http://banya1700.synology.me:3050)
 
 [back](./)
