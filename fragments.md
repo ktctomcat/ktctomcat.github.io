@@ -30,7 +30,8 @@ title: Fragments
 
 ## 資料
 
+* [新潟LIVEカメラ](other.html)
+* [お茶の間IoT実験室](IoT.html)
 * [リンク集](link.html)
-* [その他](other.html)
 
 [back](./)
