@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Tomoo Ito
-title: 題3回目の投稿です
+title: テスト投稿
 date: 2025-04-06
-tag: [地域文化]
+tag:
 ---
 
 ## TomoDesign Worksとは？
