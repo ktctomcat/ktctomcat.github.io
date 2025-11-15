@@ -28,79 +28,87 @@ title: Link
 
 ### 歴史・文化
 
-* []()<a href="http://www.syakazuka.com/">釈迦塚歴史考</a>
-* []()<a href="http://hgotan.hp.infoseek.co.jp/">越後の歴史探訪観光案内所</a>
-* []()<a href="http://www8.ocn.ne.jp/~kaidan/">新潟県の怪談</a>
-* []()<a href="http://homepage3.nifty.com/tsunan/">津南物語</a>
-* []()<a href="http://www.geocities.jp/fumimalu/">郁丸滄海拾珠</a>
-* []()<a href="http://www.inet-shibata.or.jp/~shionotsu/index.html">塩津潟の由来</a>
-* []()<a href="http://niigata.cool.ne.jp/junrei/">新潟「私的」再発見の旅</a>
-* []()<a href="http://www.asahi-net.or.jp/~eg7k-kbys/">津南丸ごと博物館</a>
-* []()<a href="http://home.n00.itscom.net/hasegawa/">新潟県南蒲原郡田上町の紹介とその方言</a>
+* [釈迦塚歴史考](http://www.syakazuka.com/)
+* [越後の歴史探訪観光案内所](http://hgotan.hp.infoseek.co.jp/")
+* [新潟県の怪談](http://www8.ocn.ne.jp/~kaidan/)
+* [津南物語](http://homepage3.nifty.com/tsunan/)
+* [郁丸滄海拾珠](http://www.geocities.jp/fumimalu/)
+* [塩津潟の由来](http://www.inet-shibata.or.jp/~shionotsu/index.html)
+* [新潟「私的」再発見の旅](http://niigata.cool.ne.jp/junrei/)
+* [津南丸ごと博物館](http://www.asahi-net.or.jp/~eg7k-kbys/)
+* [新潟県南蒲原郡田上町の紹介とその方言](http://home.n00.itscom.net/hasegawa/)
 
 ### 自治体・各種団体
 
-* []()<a href="http://www.pref.niigata.jp/">新潟県</a>
-* []()<a href="http://www.city.niigata.niigata.jp/">新潟市</a>
-* []()<a href="http://www.e-ja.or.jp/">JA越後中央</a>
-* []()<a href="http://homepage3.nifty.com/niigatachikyumura/">にいがた『地球村』</a>
+* [新潟県](http://www.pref.niigata.jp/)
+* [新潟市](http://www.city.niigata.niigata.jp/)
+* [JA越後中央](http://www.e-ja.or.jp/)
+* [にいがた『地球村』](homepage3.nifty.com/niigatachikyumura/)
 
 ### 写真・イラスト
 
-* []()<a href="http://m-park.net/">M's LIBERAL PARK</a>
-* []()<a href="http://www.asahi-net.or.jp/~tp7h-itu/">新潟周辺の風景写真 そして他愛のない話</a>
-* []()<a href="http://www.heppoco.net/">新潟発ヘッポコギャラリー</a>
-* []()<a href="http://homepage3.nifty.com/e-hokari/">EMIKO's HOMEPAGE</a>
-* []()<a href="http://homepage3.nifty.com/shunsaikan/">フォトギャラリー・旬彩館</a>
-* []()<a href="http://www.sky.sannet.ne.jp/nijino-tou/">虹の塔</a>
-* []()<a href="http://snaplife.fc2web.com/">Snap Life</a>
-* []()<a href="http://kajii.icca.jp/index3.html">syoin kajii`s room</a>
+* [M's LIBERAL PARK](http://m-park.net/)
+* [新潟周辺の風景写真 そして他愛のない話](http://www.asahi-net.or.jp/~tp7h-itu/)
+* [新潟発ヘッポコギャラリー](http://www.heppoco.net/)
+* [EMIKO's HOMEPAGE](http://homepage3.nifty.com/e-hokari/)
+* [フォトギャラリー・旬彩館](http://homepage3.nifty.com/shunsaikan/)
+* [虹の塔](http://www.sky.sannet.ne.jp/nijino-tou/)
+* [Snap Life](http://snaplife.fc2web.com/)
+* [syoin kajii`s room](http://kajii.icca.jp/index3.html)
 
 ### その他一般
 
-* []()<a href="http://www2.plala.or.jp/waraku/">日暮れて途遠し</a>
-* []()<a href="http://www2.plala.or.jp/waraku/">日暮れて途遠し</a>
-* []()<a href="http://homepage3.nifty.com/hirobou/">ひろBOX</a>
-* []()<a href="http://www11.plala.or.jp/kataken/">潟東少年剣士会</a>
-* []()<a href="http://www15.plala.or.jp/orange-katahigas/">orange official site</a>
-* []()<a href="http://www.on.rim.or.jp/~makosan/">ご近所路上観察ファイル</a>
-* []()<a href="http://park15.wakwak.com/~dotayu/">DOTAYUホームページ</a>
-* []()<a href="http://homepage.mac.com/littlestar_studio/work/index.html">リトルスタースタジオ</a>
-* []()<a href="http://www.namkk.net/">新潟のんびり旅行</a>
+* [日暮れて途遠し](http://www2.plala.or.jp/waraku/)
+* [ひろBOX](http://homepage3.nifty.com/hirobou/)
+* [潟東少年剣士会](http://www11.plala.or.jp/kataken/)
+* [orange official site](http://www15.plala.or.jp/orange-katahigas/)
+* [ご近所路上観察ファイル](http://www.on.rim.or.jp/~makosan/)
+* [DOTAYUホームページ](http://park15.wakwak.com/~dotayu/)
+* [リトルスタースタジオ](http://homepage.mac.com/littlestar_studio/work/index.html)
+* [新潟のんびり旅行](http://www.namkk.net/)
 
 ### ブログ
 
-* []()<a href="http://blog.goo.ne.jp/kam0302">稲島観音堂だより</a>
-* []()<a href="http://blog.goo.ne.jp/higashinagatori">長鳥の人より</a>
-* []()<a href="http://megamix.ddo.jp/diary/">ノン・トラブルで行こう</a>
-* []()<a href="http://nuttari.seesaa.net/">沼垂の住人の春夏秋冬</a>
-* []()<a href="http://niigata.way-nifty.com/ifamily/">新潟ラーメン日記</a>
-* []()<a href="http://blog.goo.ne.jp/breitling24">☆新潟ラーメン日記☆</a>
-* []()<a href="http://katumaru.spaces.live.com/">【おいしい足跡 ～新潟ラーメン食べ歩き～】</a>
-* []()<a href="http://jp.air-nifty.com/umetoko/">フォトログ☆もうぞ</a>
-* []()<a href="http://bqspot.blog42.fc2.com/">看板探偵</a>
-* []()<a href="http://blue.ap.teacup.com/racniigata/">越後路の風景と鉄道の部屋のブログ</a>
-* []()<a href="http://blogs.yahoo.co.jp/fumimalu">郁丸ブログ</a>
-* []()<a href="http://blog.livedoor.jp/waraku1969/">和楽 - livedoor</a>
-* []()<a href="http://blog.goo.ne.jp/waraku1969/">和楽 - goo</a>
-* []()<a href="http://megamix.ddo.jp/diary/">ノン・トラブルで行こう</a>
-* []()<a href="http://hirobox.air-nifty.com/blog/">hirobox</a>
-* []()<a href="http://blog.livedoor.jp/fiend2005/">聞いて極楽見て地獄</a>
+* [フォトログ☆もうぞ](http://jp.air-nifty.com/umetoko/)
+* [看板探偵](http://bqspot.blog42.fc2.com/)
+* [越後路の風景と鉄道の部屋のブログ](http://blue.ap.teacup.com/racniigata/)
+* [郁丸ブログ](http://blogs.yahoo.co.jp/fumimalu)
+
+### その他のブログ色々
+
+* [和楽 - livedoor](http://blog.livedoor.jp/waraku1969/)
+* [和楽 - goo](http://blog.goo.ne.jp/waraku1969/)
+* [ノン・トラブルで行こう](http://megamix.ddo.jp/diary/)
+* [hirobox](http://hirobox.air-nifty.com/blog/)
+* [聞いて極楽見て地獄](http://blog.livedoor.jp/fiend2005/)
+
+___
+
+* [稲島観音堂だより](http://blog.goo.ne.jp/kam0302)
+* [長鳥の人より](http://blog.goo.ne.jp/higashinagatori)
+* [ノン・トラブルで行こう](http://megamix.ddo.jp/diary/)
+* [沼垂の住人の春夏秋冬](http://nuttari.seesaa.net/)
+
+___
+
+* [新潟ラーメン日記](http://niigata.way-nifty.com/ifamily/)
+* [☆新潟ラーメン日記☆](http://blog.goo.ne.jp/breitling24)
+* [【おいしい足跡 ～新潟ラーメン食べ歩き～】](http://katumaru.spaces.live.com/)
 
 ### 越後の自宅サーバ
 
-* []()<a href="http://www.tatunet.ddo.jp/">Tatu Net</a>
-* []()<a href="http://itoigawa.com/~homeserver/homeserver.html">SAO「同じ自宅サーバー作ろうよ」計画！</a>
-* []()<a href="http://www.tiny.jp/">宮沢家WWWサーバ</a>
-* []()<a href="http://ojima3.com/">OJIMAの自宅サーバー</a>
-* []()<a href="http://megamix.ddo.jp/">インターネットへの入り口</a>
-* []()<a href="http://www.e-haru.jp/">よしはるのバーチャル写真館</a>
-* []()<a href="http://www.ryoseas.com/">RYOSEAS.COM</a>
-* []()<a href="http://beatlesoft.ddo.jp/Myself/beatle.html">管理人のマニアな生活</a>
-* []()<a href="http://www.sushi-bomber.net/">青春懐メロ-フォーク-ロック-歌謡曲-more</a>
-* []()<a href="http://www.dorahome.jp/index.html">どら家-DORAHOME.JP</a>
-* []()<a href="http://wha.jp/">who.jp</a>
-* []()<a href="http://mosachan.ddo.jp/">In The Life-Zope in the Life-</a>
+* [Tatu Net](http://www.tatunet.ddo.jp/)
+* [SAO「同じ自宅サーバー作ろうよ」計画！](http://itoigawa.com/~homeserver/homeserver.html)
+* [宮沢家WWWサーバ](http://www.tiny.jp/)
+* [OJIMAの自宅サーバー](http://ojima3.com/)
+* [インターネットへの入り口](http://megamix.ddo.jp/)
+* [よしはるのバーチャル写真館](http://www.e-haru.jp/)
+* [RYOSEAS.COM](http://www.ryoseas.com/)
+* [管理人のマニアな生活](http://beatlesoft.ddo.jp/Myself/beatle.html)
+* [青春懐メロ-フォーク-ロック](http://www.sushi-bomber.net/)
+* [どら家-DORAHOME.JP](http://www.dorahome.jp/index.html)
+* [who.jp](http://wha.jp/)
+* [In The Life-Zope in the Life-](http://mosachan.ddo.jp/)
 
 ## 新潟県外の情報
 
@@ -108,26 +116,26 @@ title: Link
 
 ### 伝説等
 
-* []()<a href="http://www.bakebake.com/kaido/">みちのく怪道風まかせ</a>
-* []()<a href="http://www31.ocn.ne.jp/~denkidensetu/">伝奇伝説研究所</a>
-* []()<a href="http://nats12.cool.ne.jp/TOP/top.html">NUTS</a>
-* []()<a href="http://www.st.rim.or.jp/~success/yositune.htm">義経伝説</a>
-* []()<a href="http://uwasa.main.jp/">噂の現場</a>
-* []()<a href="http://www.ne.jp/asahi/meitei/pedantry/index.html">冥帝文庫</a>
-* []()<a href="http://www.alpha-net.ne.jp/users2/knight9/m.htm">無限回廊 endless loop</a>
-* []()<a href="http://www.orange.ne.jp/~kibita/jp7/">怪異・日本の七不思議</a></li>
-* []()<a href="http://www.geocities.co.jp/SilkRoad-Oasis/9236/main.html">バーチャル不思議探訪</a>
-* []()<a href="http://www001.upp.so-net.ne.jp/densetutanbo/">伝説探訪</a>
-* []()<a href="http://aguba.hp.infoseek.co.jp/yaman.htm">山梨の民話・伝説</a>
-* []()<a href="http://www2j.biglobe.ne.jp/~minwa/">岡山の民話</a>
-* []()<a href="http://www.marumarushingo.com/densyoukan.htm">キリストの里伝承館</a>
-* []()<a href="http://www.ryukyu.ne.jp/~tomori/">琉球の天文記録・星の神話伝説</a>
-* []()<a href="http://wwwsoc.nii.ac.jp/jsft2/">説話・伝承学会</a>
-* []()<a href="http://home.att.ne.jp/red/sronin/">座敷浪人の壺蔵</a>
+* [みちのく怪道風まかせ](http://www.bakebake.com/kaido/)
+* [伝奇伝説研究所](http://www31.ocn.ne.jp/~denkidensetu/)
+* [NUTS](http://nats12.cool.ne.jp/TOP/top.html)
+* [義経伝説](http://www.st.rim.or.jp/~success/yositune.htm)
+* [噂の現場](http://uwasa.main.jp/)
+* [冥帝文庫](http://www.ne.jp/asahi/meitei/pedantry/index.html)
+* [無限回廊 endless loop](http://www.alpha-net.ne.jp/users2/knight9/m.htm)
+* [怪異・日本の七不思議](http://www.orange.ne.jp/~kibita/jp7/)
+* [バーチャル不思議探訪](http://www.geocities.co.jp/SilkRoad-Oasis/9236/main.html)
+* [伝説探訪](http://www001.upp.so-net.ne.jp/densetutanbo/)
+* [山梨の民話・伝説](http://aguba.hp.infoseek.co.jp/yaman.htm)
+* [岡山の民話](http://www2j.biglobe.ne.jp/~minwa/)
+* [キリストの里伝承館](http://www.marumarushingo.com/densyoukan.htm)
+* [琉球の天文記録・星の神話伝説](http://www.ryukyu.ne.jp/~tomori/)
+* [説話・伝承学会](http://wwwsoc.nii.ac.jp/jsft2/)
+* [座敷浪人の壺蔵](http://home.att.ne.jp/red/sronin/)
 
 ### その他
 
-* []()<a href="http://www.landmax.net/">マジックと手品の不思議</a>
+* [マジックと手品の不思議](http://www.landmax.net/)
 
 ## その他の色々
 
@@ -135,31 +143,31 @@ title: Link
 
 ### CALS/EC関連ブログ
 
-* []()<a href="http://sxf.de-blog.jp/sxf/">大野聡の SXF最新情報ブログ</a>
-* []()<a href="http://www.cals-up.co.jp/">CALS-Up Log</a>
+* [大野聡の SXF最新情報ブログ](http://sxf.de-blog.jp/sxf/)
+* [CALS-Up Log](http://www.cals-up.co.jp/)
 
 ### セキュリティ関連ブログ
 
-* []()<a href="http://yoshihiro.cocolog-nifty.com/postit/">砂糖の甘い付箋</a>
-* []()<a href="http://yoshihiro.cocolog-nifty.com/security/">深情報セキュリティ美学</a>
-* []()<a href="http://maruyama-mitsuhiko.cocolog-nifty.com/security/">まるちゃんの情報セキュリティ気まぐれ日記</a>
+* [砂糖の甘い付箋](http://yoshihiro.cocolog-nifty.com/postit/)
+* [深情報セキュリティ美学](http://yoshihiro.cocolog-nifty.com/security/)
+* [まるちゃんの情報セキュリティ気まぐれ日記](http://maruyama-mitsuhiko.cocolog-nifty.com/security/)
 
 ### WEB standard
 
-* []()<a href="http://www.seo-equation.com/">SEO対策とWeb標準のホームページ作成 SEO-Equation</a>
-* []()<a href="http://www.kanzaki.com/">The Web KANZAKI -- Japan, music and computer</a>
-* []()<a href="http://www.cybergarden.net/">CYBER@GARDEN</a>
+* [SEO対策とWeb標準のホームページ作成 SEO-Equation](http://www.seo-equation.com/)
+* [The Web KANZAKI -- Japan, music and computer](http://www.kanzaki.com/)
+* [CYBER@GARDEN](http://www.cybergarden.net/)
 
 ### CALS/EC
 
-* []()<a href="http://www.cals.jacic.or.jp/">JACIC［CALS/EC部］</a>
-* []()<a href="http://www.ocf.or.jp/sxf/">SXF技術者検定試験</a>
-* []()<a href="http://www.enjoy.ne.jp/~katsurar/">桂 flashバージョンJW CAD Auto CAD</a>
+* [JACIC［CALS/EC部］](http://www.cals.jacic.or.jp/)
+* [SXF技術者検定試験](http://www.ocf.or.jp/sxf/)
+* [桂 flashバージョンJW CAD Auto CAD](http://www.enjoy.ne.jp/~katsurar/)
 
 ### 用語辞典
 
-* []()<a href="http://e-words.jp/">IT用語辞典e-Words（株式会社インセプト）</a>
-* []()<a href="http://www.atmarkit.co.jp/fsecurity/dictionary/indexpage/securityindex.html">セキュリティ用語辞典（＠IT）</a>
-* []()<a href="http://ja.wikipedia.org/">フリー百科事典『ウィキペディア（Wikipedia）』</a>
+* [IT用語辞典e-Words（株式会社インセプト）](http://e-words.jp/)
+* [セキュリティ用語辞典（＠IT）](http://www.atmarkit.co.jp/fsecurity/dictionary/indexpage/securityindex.html)
+* [フリー百科事典『ウィキペディア（Wikipedia）』](http://ja.wikipedia.org/)
 
 [back](./)
