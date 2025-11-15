@@ -9,3 +9,5 @@ tag:
 ## TomoDesign Worksとは？
 
 TomoDesign Worksは、構造に思想を宿すデザインを通じて、社会のゆらぎや文化の断片を来への記録として残しています。
+
+[back](../../../../fragments.html)
