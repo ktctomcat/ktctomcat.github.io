@@ -28,6 +28,6 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
 
 [かもん！カモねぎくんのホームページへ](https://ktctomcat.github.io/kamonegi/)
 
-## 似顔絵コレクション
+## 似顔絵ギャラリー
 
 [back](./)
