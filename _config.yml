@@ -9,7 +9,7 @@ google_analytics: false
 lang: ja
 theme: jekyll-theme-minimal
 
-# グリーバルナビゲーションの設定
+# グローバルナビゲーションの設定
 header_pages:
   - index.md 
   - works.md
