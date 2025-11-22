@@ -31,23 +31,11 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
 ## 似顔絵コレクション
 
 <div class="img-row">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="one-col">
+    <img src="/assets/img/portrait/portrait-001.svg" alt="似顔絵" class="one-col">
 </div>
 <div class="img-row">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
-</div>
-<div class="img-row">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
-</div>
-<div class="img-row">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
-</div>
-<div class="img-row">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
-    <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
+    <img src="/assets/img/portrait/portrait-002.svg" alt="似顔絵" class="two-col">
+    <img src="/assets/img/portrait/portrait-003.svg" alt="似顔絵" class="two-col">
 </div>
 
 コメント…
