@@ -47,6 +47,14 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
     <img src="/assets/img/portrait/portrait-006.svg" alt="似顔絵" class="two-col">
     <img src="/assets/img/portrait/portrait-007.svg" alt="似顔絵" class="two-col">
 </div>
+<div class="img-row">
+    <img src="/assets/img/portrait/portrait-008.svg" alt="似顔絵" class="two-col">
+    <img src="/assets/img/portrait/portrait-009.svg" alt="似顔絵" class="two-col">
+</div>
+<div class="img-row">
+    <img src="/assets/img/portrait/portrait-010.svg" alt="似顔絵" class="two-col">
+    <img src="/assets/img/portrait/portrait-999.svg" alt="似顔絵" class="two-col">
+</div>
 
 ※掲載している似顔絵のデータはすべてSVG形式です。
 
