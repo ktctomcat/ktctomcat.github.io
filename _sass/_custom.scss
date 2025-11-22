@@ -10,6 +10,9 @@ nav ul {
 
 /* 画像を2列で表示するためのスタイル定義 */
 .two-col {
+    margin: 0;
+    padding: 0;
+    /* 余白をなくす */
     width: 48%;
     /* 画像を半分弱に縮小 */
     display: inline-block;
