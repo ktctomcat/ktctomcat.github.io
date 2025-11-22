@@ -57,6 +57,6 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
     <img src="/assets/img/portrait/portrait-999.svg" alt="似顔絵" class="two-col">
 </div>
 
-※掲載している似顔絵のデータはすべてSVG形式です。
+※似顔絵のデータは容量の関係ですべてSVG形式で掲載しています。ダウンロードしても、アプリによってはそのまま表示できない場合があります。
 
 [back](./)
