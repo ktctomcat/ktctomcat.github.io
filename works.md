@@ -30,4 +30,6 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
 
 ## 似顔絵コレクション
 
+![池田陽](./assets/img/portrait/yo-ikeda.svg)
+
 [back](./)
