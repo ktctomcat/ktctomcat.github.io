@@ -9,10 +9,22 @@ nav ul {
 }
 
 /* 画像を2列で表示するためのスタイル定義 */
+.img-row {
+    display: flex;
+    /* 横並び */
+    justify-content: center;
+    /* 中央寄せ */
+    gap: 1rem;
+    /* 画像間の余白 */
+    flex-wrap: wrap;
+    /* 幅が足りないときは折り返す */
+}
+
 .two-col {
-    width: 48%;
-    display: inline-block;
-    margin: 0 1%;
-    /* 左右だけ余白 */
-    vertical-align: top;
+    flex: 1 1 48%;
+    /* 幅を約半分に、可変対応 */
+    max-width: 48%;
+    /* 最大幅を制限 */
+    height: auto;
+    /* アスペクト比を維持 */
 }
