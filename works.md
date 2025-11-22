@@ -48,4 +48,6 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
     <img src="/assets/img/portrait/yo-ikeda.svg" alt="池田陽" class="two-col">
 </div>
 
+コメント…
+
 [back](./)
