@@ -30,6 +30,8 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
 
 ## 似顔絵コレクション
 
+暇つぶしに書いた似顔絵を掲載します…
+
 <div class="img-row">
     <img src="/assets/img/portrait/portrait-001.svg" alt="似顔絵" class="one-col">
 </div>
@@ -42,6 +44,6 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
     <img src="/assets/img/portrait/portrait-005.svg" alt="似顔絵" class="two-col">
 </div>
 
-コメント…
+掲載のデータ形式はすべてSVG形式です。
 
 [back](./)
