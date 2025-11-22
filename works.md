@@ -32,4 +32,9 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
 
 ![池田陽](./assets/img/portrait/yo-ikeda.svg)
 
+![池田陽](/assets/img/portrait/yo-ikeda.svg){:class="two-col"}
+![池田陽](/assets/img/portrait/yo-ikeda.svg){:class="two-col"}
+
+
+
 [back](./)
