@@ -43,7 +43,11 @@ Webを設計するにあたり、HTMLとCSSは欠かすことのできない基�
     <img src="/assets/img/portrait/portrait-004.svg" alt="似顔絵" class="two-col">
     <img src="/assets/img/portrait/portrait-005.svg" alt="似顔絵" class="two-col">
 </div>
+<div class="img-row">
+    <img src="/assets/img/portrait/portrait-006.svg" alt="似顔絵" class="two-col">
+    <img src="/assets/img/portrait/portrait-007.svg" alt="似顔絵" class="two-col">
+</div>
 
-掲載のデータ形式はすべてSVG形式です。
+※掲載している似顔絵のデータはすべてSVG形式です。
 
 [back](./)
