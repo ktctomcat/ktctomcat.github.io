@@ -33,4 +33,6 @@ TomoDesign Works preserves social fluctuations and cultural fragments as a recor
 
 インターネット黎明期には、数多くの個人ホームページが存在していました。近年、それらは急速に姿を消しつつありますが、そこには極めてローカルで、かけがえのない情報が宿っていました。
 
+In the early days of the Internet, there were many personal homepages. In recent years, they have been rapidly disappearing, but they once contained extremely local and irreplaceable information
+
 私たちは、GitHub PagesとJekyllを用いて、再現性・公共性・意味論的構造を備えたテンプレート設計を実践しながら、地域文化とデザインを融合した情報発信のかたちを探求し続けています。
