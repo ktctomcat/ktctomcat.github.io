@@ -28,15 +28,13 @@ title: 新潟LIVEカメラ
 
 ### 河川
 
-#### 信濃川下流
+#### 信濃川
 
 ![平成大橋](https://www.live-cam.pref.niigata.jp/camera/pc/727052.jpg)
 平成大橋
 
-![白根橋](https://www.live-cam.pref.niigata.jp/camera/pc/727050.jpg)
-白根橋（中ノ口川）
-
 ![下山田](https://www.live-cam.pref.niigata.jp/camera/pc/727016.jpg)
+下山田
 
 ![山田](https://www.live-cam.pref.niigata.jp/camera/pc/727004.jpg)
 
@@ -55,5 +53,16 @@ title: 新潟LIVEカメラ
 ![小須戸橋左岸](https://www.live-cam.pref.niigata.jp/camera/pc/727039.jpg)
 
 ![小須戸橋](https://www.live-cam.pref.niigata.jp/camera/pc/727035.jpg)
+
+#### 中ノ口川
+
+![新潟市西区大野](https://www.live-cam.pref.niigata.jp/camera/pc/now_234.jpg)
+新潟市西区大野
+
+![新潟市南区大倉](https://www.live-cam.pref.niigata.jp/camera/pc/now_324.jpg)
+新潟市南区大倉
+
+![白根橋](https://www.live-cam.pref.niigata.jp/camera/pc/727050.jpg)
+白根橋
 
 [back](./)
