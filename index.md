@@ -18,7 +18,10 @@ TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロ�
       "{{ '/assets/img/top/top-img-004.jpg' | relative_url }}",
       "{{ '/assets/img/top/top-img-005.jpg' | relative_url }}",
       "{{ '/assets/img/top/top-img-006.jpg' | relative_url }}",
-      "{{ '/assets/img/top/top-img-007.jpg' | relative_url }}"
+      "{{ '/assets/img/top/top-img-007.jpg' | relative_url }}",
+      "{{ '/assets/img/top/top-img-008.jpg' | relative_url }}",
+      "{{ '/assets/img/top/top-img-009.jpg' | relative_url }}",
+      "{{ '/assets/img/top/top-img-010.jpg' | relative_url }}"
     ];
     const pick = images[Math.floor(Math.random() * images.length)];
     const img = document.getElementById('rand-img');
