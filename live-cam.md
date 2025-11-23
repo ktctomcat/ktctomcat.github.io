@@ -3,19 +3,19 @@ layout: default
 title: 新潟LIVEカメラ
 ---
 
-## 新潟LIVEカメラ
-
 - [新潟LIVEカメラ](#新潟liveカメラ)
   - [道路](#道路)
-    - [国号8号【南区】](#国号8号南区)
-    - [国道116号【西蒲区】](#国道116号西蒲区)
+    - [国号8号](#国号8号)
+    - [国道116号](#国道116号)
   - [河川](#河川)
     - [信濃川](#信濃川)
     - [中ノ口川](#中ノ口川)
 
+## 新潟LIVEカメラ
+
 ### 道路
 
-#### 国号8号【南区】
+#### 国号8号
 
 ![新潟市西区山田](https://www.live-cam.pref.niigata.jp/camera/pc/721102.jpg)
 
@@ -25,7 +25,7 @@ title: 新潟LIVEカメラ
 
 ![新潟市南区新飯田](https://www.live-cam.pref.niigata.jp/camera/pc/721105.jpg)
 
-#### 国道116号【西蒲区】
+#### 国道116号
 
 ![新潟市西蒲区善光寺](https://www.live-cam.pref.niigata.jp/camera/pc/721403.jpg)
 
