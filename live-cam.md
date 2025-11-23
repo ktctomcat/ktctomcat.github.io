@@ -35,7 +35,7 @@ title: 新潟LIVEカメラ
 新潟市西蒲区善光寺
 
 ![新潟市西蒲区赤鏥](https://www.live-cam.pref.niigata.jp/camera/pc/721410.jpg)  
-[新潟市西蒲区赤鏥
+新潟市西蒲区赤鏥
 
 ### 河川
 
