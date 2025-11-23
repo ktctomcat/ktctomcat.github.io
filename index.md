@@ -7,6 +7,8 @@ title: Top
 
 TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
 
+TomoDesign Works preserves social fluctuations and cultural fragments as a record of the future through designs that incorporate ideas into their structures.
+
 <img id="rand-img" alt="トップ画像">
 
 <script>
