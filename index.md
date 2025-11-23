@@ -36,3 +36,5 @@ TomoDesign Works preserves social fluctuations and cultural fragments as a recor
 In the early days of the Internet, there were many personal homepages. In recent years, they have been rapidly disappearing, but they once contained extremely local and irreplaceable information
 
 私たちは、GitHub PagesとJekyllを用いて、再現性・公共性・意味論的構造を備えたテンプレート設計を実践しながら、地域文化とデザインを融合した情報発信のかたちを探求し続けています。
+
+We use GitHub Pages and Jekyll to design templates that are reproducible, public, and have a semantic structure, while continuing to explore ways of disseminating information that combine local culture and design.
