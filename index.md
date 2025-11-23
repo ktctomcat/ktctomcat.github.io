@@ -7,10 +7,7 @@ title: Top
 
 TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
 
-<figure class="rand-image">
-  <img id="rand-img" alt="ランダム画像">
-  <figcaption>ランダム表示（クライアント側）</figcaption>
-</figure>
+<img id="rand-img" alt="トップ画像">
 
 <script>
   (function() {
