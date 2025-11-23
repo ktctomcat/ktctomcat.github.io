@@ -33,5 +33,6 @@ title: Fragments
 * [新潟LIVEカメラ](live-cam.html)
 * [お茶の間webカメラ](http://banya1700.synology.me:3050)
 * [リンク集](link.html)
+* [独立したページサンプル](test.html)
 
 [back](./)
