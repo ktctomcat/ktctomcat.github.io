@@ -61,10 +61,16 @@
             {% endif %}
         </header>
         <section>
-
             <!-- メインコンテンツ -->
             {{ content }}
 
+            <!-- SNS連絡先【カスタム設定】 -->
+            <p class="center">
+                <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> GitHub</a>
+                <a href="https://facebook.com/{{ site.author.facebook }}"><i class="fab fa-facebook"></i> Facebook</a>
+                <a href="https://instagram.com/{{ site.author.instagram }}"><i class="fab fa-instagram"></i> Instagram</a>
+                <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa-brands fa-x-twitter"></i> X</a>
+            </p>
         </section>
         <footer>
             <!-- プロジェクトページへのリンク（ユーザーページで公開している場合は表示されない） -->
@@ -75,14 +81,6 @@
             <!-- テーマ作者の著作権表示 -->
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a
                         href="https://github.com/orderedlist">orderedlist</a></small></p>
-
-            <!-- SNS連絡先【カスタム設定】 -->
-            <p class="center">
-                <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> GitHub</a>
-                <a href="https://facebook.com/{{ site.author.facebook }}"><i class="fab fa-facebook"></i> Facebook</a>
-                <a href="https://instagram.com/{{ site.author.instagram }}"><i class="fab fa-instagram"></i> Instagram</a>
-                <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa-brands fa-x-twitter"></i> X</a>
-            </p>
         </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
