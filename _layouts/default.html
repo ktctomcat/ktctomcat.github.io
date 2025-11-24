@@ -61,18 +61,20 @@
             {% endif %}
         </header>
         <section>
+
             <!-- メインコンテンツ -->
             {{ content }}
 
+        </section>
+        <footer  class="center">
             <!-- SNS連絡先【カスタム設定】 -->
-            <p class="center">
+            <p>
                 <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> GitHub</a>
                 <a href="https://facebook.com/{{ site.author.facebook }}"><i class="fab fa-facebook"></i> Facebook</a>
                 <a href="https://instagram.com/{{ site.author.instagram }}"><i class="fab fa-instagram"></i> Instagram</a>
                 <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa-brands fa-x-twitter"></i> X</a>
             </p>
-        </section>
-        <footer>
+
             <!-- プロジェクトページへのリンク（ユーザーページで公開している場合は表示されない） -->
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
