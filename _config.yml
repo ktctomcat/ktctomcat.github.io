@@ -8,6 +8,15 @@ google_analytics: false
 lang: ja
 theme: jekyll-theme-minimal
 
+# 連絡先等の設定
+author:
+  name: Tomoo Ito
+  email: ktc.tomcat@gmail.com
+  twitter: ktc_tomcat
+  github: ktctomcat
+  instagram: ktc.tomcat
+  facebook: ktc.tomcat
+  
 # グローバルナビゲーションの設定
 header_pages:
   - index.md 
