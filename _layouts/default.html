@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -18,7 +18,7 @@
     <div class="wrapper">
         <header>
             <!-- サイト名・タイトル -->
-            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <h1><a href="{{ " /" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
             <!-- ロゴ -->
             {% if site.logo %}
@@ -77,15 +77,16 @@
                         href="https://github.com/orderedlist">orderedlist</a></small></p>
 
             <!-- SNS連絡先【カスタム設定】 -->
-            <p>
+            <p class="center">
                 <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> GitHub</a>
                 <a href="https://facebook.com/{{ site.author.facebook }}"><i class="fab fa-facebook"></i> Facebook</a>
-                <a href="https://instagram.com/{{ site.author.instagram }}"><i class="fab fa-instagram"></i> Instagram</a>
+                <a href="https://instagram.com/{{ site.author.instagram }}"><i class="fab fa-instagram"></i>
+                    Instagram</a>
                 <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa-brands fa-x-twitter"></i> X</a>
             </p>
         </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
 </html>
