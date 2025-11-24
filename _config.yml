@@ -8,6 +8,10 @@ google_analytics: false
 lang: ja
 theme: jekyll-theme-minimal
 
+# GitHub Pagesへのリンク設定
+github:
+  is_project_page: false
+
 # 連絡先等の設定
 author:
   name: Tomoo Ito
