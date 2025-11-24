@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -18,7 +18,7 @@
     <div class="wrapper">
         <header>
             <!-- サイト名・タイトル -->
-            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <h1><a href="{{ " /" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
             <!-- ロゴ -->
             {% if site.logo %}
@@ -75,9 +75,17 @@
             <!-- テーマ作者の著作権表示 -->
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a
                         href="https://github.com/orderedlist">orderedlist</a></small></p>
+
+            <!-- SNS連絡先【カスタム設定】 -->
+            <p>
+                🐦 <a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a> |
+                💻 <a href="https://github.com/{{ site.author.github }}">GitHub</a> |
+                📸 <a href="https://instagram.com/{{ site.author.instagram }}">Instagram</a> |
+                📘 <a href="https://facebook.com/{{ site.author.facebook }}">Facebook</a>
+            </p>
         </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
 </html>
