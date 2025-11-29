@@ -17,3 +17,7 @@ TomoDesign Worksは、地域文化とWeb技術の融合を目指す実験的な�
 - CSS設計：Flexbox・margin・borderの適切な使い分けで保守性を確保
 - コメント整備：コードの可読性・再利用性を高めるための詳細なコメント
 - 軽量運用：Jekyll + GitHub Pagesによる高速・低コストな公開
+
+## 🌐 公開サイト
+👉 [TomoDesign Works](https://ktctomcat.github.io/)  
+
