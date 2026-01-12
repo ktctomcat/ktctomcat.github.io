@@ -1,12 +1,12 @@
 title: TomoDesign Works
-logo: /assets/img/logo.svg
 description: TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
 url: https://ktctomcat.github.io
 baseurl: ""
-show_downloads: false
-google_analytics: false
 lang: ja
 theme: jekyll-theme-minimal
+logo: /assets/img/logo.svg
+show_downloads: false
+google_analytics: false
 
 # 連絡先等の設定
 author:
