@@ -88,7 +88,10 @@ title: 新潟LIVEカメラ
 
 #### 新潟市設置カメラ
 
-![真木](https://city-niigata.stniigata.com/cam/ngt016/now.jpg?t=1769929690176)  
-南区真木
+![南区東笠巻地内](https://city-niigata.stniigata.com/cam/ngt017/now.jpg?t=1769930857405)  
+南区東笠巻地内
+
+![真木地内](https://city-niigata.stniigata.com/cam/ngt016/now.jpg?t=1769929690176)  
+南区真木地内
 
 [back](./)
