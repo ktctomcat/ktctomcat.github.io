@@ -10,6 +10,7 @@ title: 新潟LIVEカメラ
   - [河川](#河川)
     - [信濃川](#信濃川)
     - [中ノ口川](#中ノ口川)
+    - [新潟市設置カメラ](#新潟市設置カメラ)
 
 ## 新潟LIVEカメラ
 
@@ -84,5 +85,10 @@ title: 新潟LIVEカメラ
 
 ![白根橋](https://www.live-cam.pref.niigata.jp/camera/pc/727050.jpg)  
 白根橋
+
+#### 新潟市設置カメラ
+
+![真木](https://city-niigata.stniigata.com/cam/ngt016/now.jpg?t=1769929690176)  
+南区真木
 
 [back](./)
