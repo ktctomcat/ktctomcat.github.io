@@ -3,14 +3,28 @@ layout: default
 title: 新潟LIVEカメラ
 ---
 
+- [新潟市積雪観測システム](#新潟市積雪観測システム)
 - [新潟LIVEカメラ](#新潟liveカメラ)
   - [道路](#道路)
     - [国号8号](#国号8号)
     - [国道116号](#国道116号)
-    - [新潟市設置カメラ](#新潟市設置カメラ)
   - [河川](#河川)
     - [信濃川](#信濃川)
     - [中ノ口川](#中ノ口川)
+
+## 新潟市積雪観測システム
+
+![西区板井地内](https://city-niigata.stniigata.com/cam/ngt021/now.jpg?t=1769937662461)
+西区板井地内※参考
+
+![南区味方地内](https://city-niigata.stniigata.com/cam/ngt018/now.jpg?t=1769931958947)  
+南区味方地内
+
+![西蒲区大原地内](https://city-niigata.stniigata.com/cam/ngt024/now.jpg?t=1769932077088)  
+西蒲区大原地内※参考（新幹線側道）
+
+![真木地内](https://city-niigata.stniigata.com/cam/ngt016/now.jpg?t=1769929690176)  
+南区真木地内
 
 ## 新潟LIVEカメラ
 
@@ -40,20 +54,6 @@ title: 新潟LIVEカメラ
 
 ![新潟市西蒲区赤鏥](https://www.live-cam.pref.niigata.jp/camera/pc/721410.jpg)  
 新潟市西蒲区赤鏥
-
-#### 新潟市設置カメラ
-
-![南区東笠巻地内](https://city-niigata.stniigata.com/cam/ngt017/now.jpg?t=1769930857405)  
-南区東笠巻地内
-
-![南区味方地内](https://city-niigata.stniigata.com/cam/ngt018/now.jpg?t=1769931958947)  
-南区味方地内
-
-![西蒲区大原地内](https://city-niigata.stniigata.com/cam/ngt024/now.jpg?t=1769932077088)  
-西蒲区大原地内（新幹線側道※参考）
-
-![真木地内](https://city-niigata.stniigata.com/cam/ngt016/now.jpg?t=1769929690176)  
-南区真木地内
 
 ### 河川
 
