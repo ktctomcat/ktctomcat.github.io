@@ -27,6 +27,9 @@ title: 新潟LIVEカメラ
 ![新潟市南区能登](https://www.live-cam.pref.niigata.jp/camera/pc/721108.jpg)  
 新潟市南区能登
 
+![新潟市南区白根](https://www.live-cam.pref.niigata.jp/camera/pc/721104.jpg)  
+新潟市南区白根
+
 ![新潟市南区新飯田](https://www.live-cam.pref.niigata.jp/camera/pc/721105.jpg)  
 新潟市南区新飯田
 
