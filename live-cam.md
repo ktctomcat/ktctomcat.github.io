@@ -17,17 +17,23 @@ title: 新潟LIVEカメラ
 
 #### 国号8号
 
-![新潟市西区山田](https://www.live-cam.pref.niigata.jp/camera/pc/721102.jpg)  
-新潟市西区山田
+![黒埼IC](https://www.live-cam.pref.niigata.jp/camera/pc/721102.jpg)  
+黒埼IC-新潟市西区山田
 
-![新潟市南区中塩俵](https://www.live-cam.pref.niigata.jp/camera/pc/721103.jpg)  
-新潟市南区中塩俵
+![中塩俵](https://www.live-cam.pref.niigata.jp/camera/pc/721103.jpg)  
+中塩俵-新潟市南区中塩俵
 
-![新潟市南区能登](https://www.live-cam.pref.niigata.jp/camera/pc/721108.jpg)  
-新潟市南区能登
+![白根BP能登](https://www.live-cam.pref.niigata.jp/camera/pc/721108.jpg)  
+白根BP能登-新潟市南区能登
 
-![新潟市南区新飯田](https://www.live-cam.pref.niigata.jp/camera/pc/721105.jpg)  
-新潟市南区新飯田
+![白根](https://www.live-cam.pref.niigata.jp/camera/pc/721104.jpg)  
+白根-新潟市南区白根
+
+![新飯田2](https://www.live-cam.pref.niigata.jp/camera/pc/721105.jpg)  
+新飯田2-新潟市南区新飯田
+
+![下須頃](https://www.live-cam.pref.niigata.jp/camera/pc/721407.jpg)  
+下須頃-新潟県三条市須頃
 
 #### 国道116号
 
