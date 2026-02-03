@@ -37,11 +37,11 @@ title: 新潟LIVEカメラ
 
 #### 国道116号
 
-![新潟市西蒲区善光寺](https://www.live-cam.pref.niigata.jp/camera/pc/721403.jpg)  
-新潟市西蒲区善光寺
+![善光寺](https://www.live-cam.pref.niigata.jp/camera/pc/721403.jpg)  
+善光寺-新潟市西蒲区善光寺
 
-![新潟市西蒲区赤鏥](https://www.live-cam.pref.niigata.jp/camera/pc/721410.jpg)  
-新潟市西蒲区赤鏥
+![巻中央IC](https://www.live-cam.pref.niigata.jp/camera/pc/721410.jpg)  
+巻中央IC-新潟市西蒲区赤鏥
 
 ### 河川
 
